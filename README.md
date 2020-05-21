@@ -18,6 +18,7 @@
 Begin working and understanding HTML and CSS. Create a webpage based off of a provided static comp, using only HTML and CSS, in order to practice designing webpages while still reflecting the designer's layout and designs. Discover how a user could best experience the content/layout across various screen sizes.
 
 ## Set Up Instructions
+Fork repo to your profile.
 
 ## Planning
 This individual project will use Atom as a text editor, MDN and lesson plans as references, the employment of mentors for code feedback and guidance, and the "rubber duck" code comprehension method.
