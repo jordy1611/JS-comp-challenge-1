@@ -4,6 +4,7 @@
 * Commit messages should be in the imperative tense (Add saveCovers function, instead of Added savedCovers)
 * Link to github pages
 * Finish Set Up Instructions
+* Create code blocks
 ## PR Template
 * What's this PR do?
 * Where should the reviewer start?
@@ -18,7 +19,10 @@
 Begin working and understanding HTML and CSS. Create a webpage based off of a provided static comp, using only HTML and CSS, in order to practice designing webpages while still reflecting the designer's layout and designs. Discover how a user could best experience the content/layout across various screen sizes.
 
 ## Set Up Instructions
-Fork repo to your profile.
+* Optional: Fork your own repo
+1. Clone your own local repo into your directory using `git clone git@github.com:jordy1611/JS-comp-challenge-1.git`
+2. `CD` into StaticComp/JS-comp-challenge-1
+3. Open website using `open index.html` in terminal
 
 ## Planning
 This individual project will use Atom as a text editor, MDN and lesson plans as references, the employment of mentors for code feedback and guidance, and the "rubber duck" code comprehension method.
