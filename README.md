@@ -38,3 +38,6 @@ Monday: Clean up website. Finish project and push to Github Pages.
 ## Progression
 **5/21/2020**
 Created wireframe and envisioned layout of website. Created index.html and styles.css files. Created HTML framework in index.html file. Website now loads a desolate version of website without and CSS editing.
+
+Started CSS coding and organizing. Website now has headers, buttons, and cards that respond to shrinking and expanding webpage. Edited some html classes as to increase organization.
+![gif of first level of functionality](/assets/staticcomp1.gif)
