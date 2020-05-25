@@ -5,6 +5,7 @@ Begin working and understanding HTML and CSS. Create a webpage based off of a pr
 
 ## Link to GitHub Pages
 jordy1611.github.io
+
 ## Set Up Instructions
 * Optional: Fork your own repo
 1. Clone your own local repo into your directory using `git clone git@github.com:jordy1611/JS-comp-challenge-1.git`
