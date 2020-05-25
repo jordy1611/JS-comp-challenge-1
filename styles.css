@@ -24,6 +24,7 @@ header {
   align-self: flex-end;
   font-size: 1em;
   padding-bottom: .2em;
+  background-color: #EEEEEE;
 }
 
 .dog-house{
@@ -49,12 +50,14 @@ h1 {
   order: 2;
   height: 30%;
   align-self: flex-end;
+
 }
 
 .your-posts-button,
 .videos-button,
 .leaderboards-button {
-  width: 7em;
+  width: 7.5em;
+  background-color: #EEEEEE;
 }
 
 .cards-section {

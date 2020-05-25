@@ -1,22 +1,9 @@
 # JS-comp-challenge-1
 
-# tips to delete later
-* Commit messages should be in the imperative tense (Add saveCovers function, instead of Added savedCovers)
-* Link to github pages
-* Finish Set Up Instructions
-* Create code blocks
-## PR Template
-* What's this PR do?
-* Where should the reviewer start?
-* How should this be manually tested?
-* Any background context you want to provide?
-* What are the relevant tickets?
-* Screenshots (if appropriate)
-* Questions:
-
-
 ## Objective
 Begin working and understanding HTML and CSS. Create a webpage based off of a provided static comp, using only HTML and CSS, in order to practice designing webpages while still reflecting the designer's layout and designs. Discover how a user could best experience the content/layout across various screen sizes.
+
+## Link to GitHub Pages
 
 ## Set Up Instructions
 * Optional: Fork your own repo
@@ -38,6 +25,19 @@ Monday: Clean up website. Finish project and push to Github Pages.
 ## Progression
 **5/21/2020**
 Created wireframe and envisioned layout of website. Created index.html and styles.css files. Created HTML framework in index.html file. Website now loads a desolate version of website without and CSS editing.
+![screenshot of page with only img-scaling CSS](/assets/htmlScreenshot1.png)
+![screenshot of page with only img-scaling CSS](/assets/htmlScreenshot2.png)
 
 Started CSS coding and organizing. Website now has headers, buttons, and cards that respond to shrinking and expanding webpage. Edited some html classes as to increase organization.
 ![gif of first level of functionality](/assets/staticcomp1.gif)
+
+**5/22/2020**
+Implemented more CSS coding and organizing. Picked and applied color scheme. Website is responsive to shrinking and expanding window. Implemented CSS Grid to organize individual cards.
+![gif of website responding to window size change](/assets/finalCapture1.gif)
+
+**5/23/2020**
+Border and image sizing in CSS. Small formatting changes to clean up page.
+
+**/24/2020**
+Tested and adjusted CSS for mobile compatibility. Site responds to screen size changes since the em's and %'s are used rather than px's.
+![gif of website responding to mobile size change](/assets/finalCapture2.gif)
