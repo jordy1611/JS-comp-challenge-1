@@ -4,7 +4,7 @@
 Begin working and understanding HTML and CSS. Create a webpage based off of a provided static comp, using only HTML and CSS, in order to practice designing webpages while still reflecting the designer's layout and designs. Discover how a user could best experience the content/layout across various screen sizes.
 
 ## Link to GitHub Pages
-jordy1611.github.io
+https://jordy1611.github.io/JS-comp-challenge-1/
 
 ## Set Up Instructions
 * Optional: Fork your own repo
